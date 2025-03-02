@@ -9,10 +9,7 @@ const Footer = () => {
         <div className="w-4/5">
           <Image className="w-28 md:w-32" src={assets.logo} alt="logo" />
           <p className="mt-6 text-sm">
-            Lorem Ipsum is simply dummy text of the printing and typesetting
-            industry. Lorem Ipsum has been the industry's standard dummy text
-            ever since the 1500s, when an unknown printer took a galley of type
-            and scrambled it to make a type specimen book.
+            Quick Cart is a modern online marketplace designed to provide a seamless experience for users looking to buy and sell products. Built for speed, security, and ease of use, Quick Cart ensures a hassle-free shopping journey, eliminating the complexities of traditional marketplaces and making transactions fast, reliable, and user-friendly.
           </p>
         </div>
 
@@ -47,7 +44,7 @@ const Footer = () => {
         </div>
       </div>
       <p className="py-4 text-center text-xs md:text-sm">
-        Copyright 2025 © GreatStack.dev All Right Reserved.
+        Copyright 2025 © Team Project
       </p>
     </footer>
   );
