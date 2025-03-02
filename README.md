@@ -1,2 +1,1 @@
 ## QuickCart
-git status
