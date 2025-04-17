@@ -1,3 +1,4 @@
+//Mongo Db confgure 
 import mongoose from "mongoose";
 
 let cached = global.mongoose
